@@ -1,2 +1,2 @@
-# OthelloBot
-A game of Othello with a bot to play with
+# OthelloBot  
+A game of Othello and a bot to play with
